@@ -7,24 +7,47 @@
 <br>
 <h2 align="center">Mi Stack</h2>
 <p>Hardware, Redes, y Sistemas:</p>
-<p><img src="icons/hardware.svg" width="32px" height="32px"/><img src="icons/network.svg" width="32px" height="32px"/><img src="icons/microsoft-windows.svg" width="32px" height="32px"/><img src="icons/linux.svg" width="32px" height="32px"/><img src="icons/terminal.svg" width="32px" height="32px"/><img src="icons/virtualbox.svg" width="32px" height="32px"/></p>
-<br>
+<p>
+  <img src="icons/hardware.svg" width="32px" height="32px"/>
+  <img src="icons/network.svg" width="32px" height="32px"/>
+  <img src="icons/microsoft-windows.svg" width="32px" height="32px"/>
+  <img src="icons/linux.svg" width="32px" height="32px"/>
+  <img src="icons/terminal.svg" width="32px" height="32px"/>
+  <img src="icons/virtualbox.svg" width="32px" height="32px"/></p>
 <p>Bases de Datos:</p>
-<p><img src="icons/sql.svg" width="32px" height="32px"/><img src="icons/oracle.svg" width="32px" height="32px"/></p>
-<br>
+<p>
+  <img src="icons/sql.svg" width="32px" height="32px"/>
+  <img src="icons/oracle.svg" width="32px" height="32px"/></p>
 <p>Lenguajes y Tecnologías Web:</p>
-<p><img src="icons/html5.svg" width="32px" height="32px"/><img src="icons/css3.svg" width="32px" height="32px"/><img src="icons/javascript.svg" width="32px" height="32px"/><img src="icons/webcomponents.svg" width="32px" height="32px"/><img src="icons/xml.svg" width="32px" height="32px"/><img src="icons/json.svg" width="32px" height="32px"/></p>
-<br>
+<p>
+  <img src="icons/html5.svg" width="32px" height="32px"/>
+  <img src="icons/css3.svg" width="32px" height="32px"/>
+  <img src="icons/javascript.svg" width="32px" height="32px"/>
+  <img src="icons/webcomponents.svg" width="32px" height="32px"/>
+  <img src="icons/xml.svg" width="32px" height="32px"/>
+  <img src="icons/json.svg" width="32px" height="32px"/>
+</p>
 <p>Bibliotecas, Frameworks, y Superconjuntos:</p>
-<p><img src="icons/sass.svg" width="32px" height="32px"/><img src="icons/typescript.svg" width="32px" height="32px"/><img src="icons/react.svg" width="32px" height="32px"/><img src="icons/reactrouter.svg" width="32px" height="32px"/></p>
-<br>
+<p>
+  <img src="icons/sass.svg" width="32px" height="32px"/>
+  <img src="icons/typescript.svg" width="32px" height="32px"/>
+  <img src="icons/react.svg" width="32px" height="32px"/>
+  <img src="icons/reactrouter.svg" width="32px" height="32px"/>
+</p>
 <p>Entornos de Ejecución y Empaquetadores:</p>
-<p><img src="icons/nodedotjs.svg" width="32px" height="32px"/><img src="icons/npm.svg" width="32px" height="32px"/><img src="icons/vite.svg" width="32px" height="32px"/></p>
-<br>
+<p><img src="icons/nodedotjs.svg" width="32px" height="32px"/>
+  <img src="icons/npm.svg" width="32px" height="32px"/>
+  <img src="icons/vite.svg" width="32px" height="32px"/>
+</p>
 <p>Control de Versiones y Repositorios:</p>
-<p><img src="icons/git.svg" width="32px" height="32px"/><img src="icons/github.svg" width="32px" height="32px"/><img src="icons/gitkraken.svg" width="32px" height="32px"/></p>
-<br>
+<p><img src="icons/git.svg" width="32px" height="32px"/>
+  <img src="icons/github.svg" width="32px" height="32px"/>
+  <img src="icons/gitkraken.svg" width="32px" height="32px"/>
+</p>
 <p>Herramientas de Prototipado:</p>
-<p><img src="icons/figma.svg" width="32px" height="32px"/><img src="icons/lunacy.svg" width="32px" height="32px"/></p>
+<p>
+  <img src="icons/figma.svg" width="32px" height="32px"/>
+  <img src="icons/lunacy.svg" width="32px" height="32px"/>
+</p>
 
 <!-- **juanpdo/juanpdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
