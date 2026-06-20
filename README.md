@@ -7,7 +7,7 @@
 <br>
 <h2 align="center">Mi Stack</h2>
 <p>Hardware, Redes, y Sistemas:</p>
-<p></p>
+<p><img src="html5.svg" width="32px" height="32px"/></p>
 <br>
 <p>Bases de Datos:</p>
 <p></p>
